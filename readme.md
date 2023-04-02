@@ -12,7 +12,7 @@
   <img align="center" src="https://jp-out.vercel.app/api/pin/?username=JP-Out&repo=Algoritmo-e-Estrutura-de-Dados-II&theme=moltack&show_icons=true" />
 </a>
 <a href="https://github.com/JP-Out/Questoes-Linguagem-de-programacao-II">
-  <img align="center" src="https://jp-out.vercel.app/api/pin/?username=JP-Out&repo=JP-Out&theme=moltack&show_icons=true" />
+  <img align="center" src="https://jp-out.vercel.app/api/pin/?username=JP-Out&repo=Questoes-Linguagem-de-programacao-II&theme=moltack&show_icons=true" />
 </a>
 
 <br><br>
