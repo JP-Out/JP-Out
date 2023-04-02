@@ -8,12 +8,6 @@
 [![willianrod's wakatime stats](https://jp-out.vercel.app/api/wakatime?username=JP_Out&theme=moltack&show_icons=true)](https://github.com/JP_Out/Algoritmo-e-Estrutura-de-Dados-II)<img src="https://user-images.githubusercontent.com/98850481/229332295-42c003be-02af-48f3-8317-08f497dc39c2.png" alt="Imagem" width="160" />
 
 <!-- GitHub Extra Pins -->
-<a href="https://github.com/JP-Out/Algoritmo-e-Estrutura-de-Dados-II">
-  <img align="center" src="https://jp-out.vercel.app/api/pin/?username=JP-Out&repo=Algoritmo-e-Estrutura-de-Dados-II&theme=moltack&show_icons=true" />
-</a>
-<a href="https://github.com/JP-Out/Questoes-Linguagem-de-programacao-II">
-  <img align="center" src="https://jp-out.vercel.app/api/pin/?username=JP-Out&repo=Questoes-Linguagem-de-programacao-II&theme=moltack&show_icons=true" />
-</a>
 
 <br><br>
 
