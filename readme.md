@@ -192,7 +192,7 @@ You can use the `bg_color` parameter to make any of [the available themes](./the
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://jp-out.vercel.app/api?username=JP-Out&show_icons=true&bg_color=00000000)
 
 </details>
 
