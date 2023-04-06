@@ -5,7 +5,7 @@
 [![Top Langs](https://jp-out.vercel.app/api/top-langs/?username=JP-Out&theme=moltack&show_icons=true)](https://github.com/JP-Out/JP-Out) <img src="https://user-images.githubusercontent.com/98850481/229332129-67c3d4c7-78ad-4231-9b20-a98d8024bf6f.png" alt="Imagem" width="100" />
 
 <!-- Estatísticas da semana Wakatime -->
-[![JP_Out's wakatime stats](https://jp-out.vercel.app/api/wakatime?username=JP_Out&theme=moltack)](https://github.com/JP-Out/Algoritmo-e-Estrutura-de-Dados-II)<img src="https://user-images.githubusercontent.com/98850481/229332295-42c003be-02af-48f3-8317-08f497dc39c2.png" alt="Imagem" width="160" />
+[![willianrod's wakatime stats](https://jp-out.vercel.app/api/wakatime?username=@JP_Out&theme=moltack&v=2)](https://github.com/JP-Out/JP-Out)<img src="https://user-images.githubusercontent.com/98850481/229332295-42c003be-02af-48f3-8317-08f497dc39c2.png" alt="Imagem" width="160" />
 
 <!-- GitHub Extra Pins -->
 <a href="https://github.com/JP-Out/Algoritmo-e-Estrutura-de-Dados-II">
