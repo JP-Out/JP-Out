@@ -14,9 +14,12 @@
 <a href="https://github.com/JP-Out/Questoes-Linguagem-de-programacao-II">
   <img align="center" src="https://jp-out.vercel.app/api/pin/?username=JP-Out&repo=Questoes-Linguagem-de-programacao-II&theme=moltack&show_icons=true" />
 </a>
-
 <br><br>
 
 <p style="text-align:center;">
   <img src="https://i.pinimg.com/originals/73/38/0b/73380bf30b463f261a835d104b07f2fa.jpg" alt="Imagem" width="500" alt="Descrição da imagem" style="display:block; margin:auto;">
 </p>
+
+<a href="https://discord.com/users/396329862903627777" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" width="50" alt="Logo do Discord">
+</a>
