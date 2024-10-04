@@ -10,9 +10,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Por jogos 🎮
 
 # 📊GitHub Stats :
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true" />
+<div style="display: flex; justify-content: space-around;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true" width="435"/>
 </div>
 
 <p align="center">
