@@ -1,17 +1,24 @@
 
 # 💫Sobre Mim:
-🌐 Aprendendo a criar o futuro, com programação!
-📚 Estudante de Ciência da Computação - IFRS
-💡 Sempre buscando aprender algo novo através de projetos próprios!
-🎯 Entusiasta pelo mundo Geek:
-    - Por animes 🍙
-    - Por Filmes 🍿
-    - Por Series 📺
-    - Por Jogos 🎮
+🌐 Aprendendo a criar o futuro, com programação!  
+📚 Estudante de Ciência da Computação - IFRS  
+💡 Sempre buscando aprender algo novo através de projetos próprios!  
+🎯 Entusiasta pelo mundo Geek:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Por animes 🍙  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Por filmes 🍿  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Por séries 📺  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Por jogos 🎮
+
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
 
 ## 🏆GitHub Troféus
 ![](https://github-trophies.vercel.app/?username=JP-Out&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
