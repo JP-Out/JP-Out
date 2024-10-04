@@ -1,17 +1,25 @@
-<!-- Linguagens mais usadas -->
-![JP-Out's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Out&theme=merko&show_icons=true&hide_border=true&layout=compact) 
 
-<!-- GitHub Estatísticas -->
-![JP-Out's Stats](https://github-readme-stats.vercel.app/api?username=JP-Out&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+# 💫Sobre Mim:
+🌐 Aprendendo a criar o futuro, com programação!
+📚 Estudante de Ciência da Computação - IFRS
+💡 Sempre buscando aprender algo novo através de projetos próprios!
+🎯 Entusiasta pelo mundo Geek:
+    - Por animes 🍙
+    - Por Filmes 🍿
+    - Por Series 📺
+    - Por Jogos 🎮
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Estatísticas da semana Wakatime -->
-<!-- [![willianrod's wakatime stats](https://jp-out.vercel.app/api/wakatime?username=JP_Out&theme=moltack&v=2)](https://github.com/JP-Out)<img src="https://user-images.githubusercontent.com/98850481/229332295-42c003be-02af-48f3-8317-08f497dc39c2.png" alt="Imagem" width="160" /> -->
+## 🏆GitHub Troféus
+![](https://github-trophies.vercel.app/?username=JP-Out&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- GitHub Extra Pins -->
-<p style="text-align:center;">
-  <img src="https://i.pinimg.com/originals/73/38/0b/73380bf30b463f261a835d104b07f2fa.jpg" alt="Imagem" width="500" alt="Descrição da imagem" style="display:block; margin:auto;">
-</p>
-
-<a href="https://discord.com/users/396329862903627777" target="_blank">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" width="50" alt="Logo do Discord">
-</a>
+### ✍️Citação aleatória de um Dev:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
+### 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=JP-Out&icon=9&color=12)](https://visitcount.itsvg.in)
