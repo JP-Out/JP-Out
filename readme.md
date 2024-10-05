@@ -22,12 +22,12 @@
 
 # 📊GitHub Stats :
 <div style="display: flex; justify-content: space-around;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false" width="360"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true" style="max-width: 100; width: 395px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false" max-width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true" style="max-width: 100%;" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="310"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact" max-width="100%"/>
 </p>
 
 ## 🏆 GitHub Troféus
