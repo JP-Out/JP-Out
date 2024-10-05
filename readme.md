@@ -22,8 +22,8 @@
 
 # 📊GitHub Stats :
 <div style="display: flex; justify-content: space-around;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false" max-width="100%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Out&theme=merko&hide_border=true" style="max-width: 100; width: 435px;" />
 </div>
 
 <p align="center">
