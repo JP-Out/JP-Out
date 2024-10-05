@@ -15,7 +15,7 @@
     </td>
     <td valign="top" width="100%">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adiciona espaço para a imagem ficar mais distante -->
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenQwaTlxbXdpY2hqYmo3cmJ3emx0bmgzM2R6MnB3NHc1NWhrOWN5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cVrccUf0NC1TQlLiZf/giphy.webp" width="250px" alt="Zoro Patão">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenQwaTlxbXdpY2hqYmo3cmJ3emx0bmgzM2R6MnB3NHc1NWhrOWN5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cVrccUf0NC1TQlLiZf/giphy.webp" width="250px" alt="Zoro Patão"> <!-- Para funcionar copiei o endereço da imagem no giphy.com -->
     </td>
   </tr>
 </table>
@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact" max-width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Out&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="320"/>
 </p>
 
 ## 🏆 GitHub Troféus
